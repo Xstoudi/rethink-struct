@@ -1,6 +1,6 @@
 {
   "name": "rethink-struct",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,10 @@
     "compound"
   ],
   "author": "Xavier Stouder <xavier@stouder.io>",
+  "bugs": {
+    "url": "https://github.com/Xstoudi/rethink-struct/issues"
+  },
+  "repository": "github:Xstoudi/rethink-struct",
   "license": "MIT",
   "dependencies": {
     "rethinkdb": "^2.3.3"
