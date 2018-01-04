@@ -5,9 +5,7 @@ Assert that databases, tables and indexes exists on you RethinkDB server and cre
 
 ## Support
 If you like this package and you like what you see in the ad, please click on it to support `rethink-struct`!
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/RFZm26J558vLyi6jH9gt7X9F/Xstoudi/rethink-struct'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/RFZm26J558vLyi6jH9gt7X9F/Xstoudi/rethink-struct.svg' />
-</a>
+
 
 ## Requirements
 * Async/await support (Node 8 or Node 7 with harmony flag)
